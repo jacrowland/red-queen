@@ -1,5 +1,7 @@
 {
   "token": "DISCORD BOT TOKENY",
   "prefix": ">>",
-  "ownerID": "DISCORD USER ID"
+  "ownerID": "DISCORD USER ID",
+  "CSE": "CUSTOM GOOGLE SEARCH ENGINE KEY",
+  "googleAPI": "GOOGLE API KEY"
 }
