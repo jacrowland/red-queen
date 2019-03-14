@@ -53,7 +53,7 @@ exports.run = function (client, message, args, command) {
         var opts = {
           maxResults: 1,
           type: "video",
-          key: "API KEY"
+          key: config.googleAPI
         };
 
         //Retrieve first Youtube Result

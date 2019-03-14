@@ -1,6 +1,6 @@
 const GoogleImages = require('google-images');
 const config = require("../config.json");
-const CSE = new GoogleImages("CSE ID", "API KEY");
+const CSE = new GoogleImages(config.CSE, config.googleAPI);
 
 exports.run = function(client, message, args) {
   CSE.search(args.join(" "))
