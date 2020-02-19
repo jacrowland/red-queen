@@ -10,7 +10,7 @@ Red Queen is a discord bot developed using a combination of *node.js* and *disco
 The name is a reference to the [Red Queen Artificial Intelligence](https://residentevil.fandom.com/wiki/Red_Queen_(Anderson)) from the live-action [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil_(film_series)) films. A supercomputer that controls the secret underground Umbrella Corporation lab (and is a bit on the sinister side).
 
 ### What does this bot require to run?
-The bot runs on node.js and requires the modules *youtube-search*, *google-images* and *discord.js* in order to function.
+The bot runs on node.js and requires the modules *youtube-search*, *google-images* and *discord.js* in order to function. *FFMPEG* is used to decode and play the audio stream.
 
 ------------
 
