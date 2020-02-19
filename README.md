@@ -1,4 +1,5 @@
 # redqueen
+
 ## discord.js bot
 
 -------------
@@ -16,3 +17,7 @@ The bot runs on node.js and requires the modules *youtube-search*, *google-image
 
 ### Required Changes
 Make sure to edit the *config.json* with the appropriate discord user id and  API keys for the music and image functionality to operate correctly.
+
+### Updates
+#### Update (Jan 2020)
+  Red Queen is no longer updated or supported. As changes to the Youtube Data API v3 prevent bots from streaming music.
